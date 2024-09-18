@@ -15,4 +15,7 @@ public class HTMLGenerator {
 		String html="<body>\n<p>"+text+"</p>\n</body>";
 		return html;
 	}
+	public static String createLink(String url, String linkText) {
+       	        return "<a href=\"" + url + "\">" + linkText + "</a>\n";
+    }
 }
