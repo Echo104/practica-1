@@ -11,5 +11,8 @@ public class HTMLGenerator {
 		String html="<head>\n<header>"+header+"</header>\n</head>";
 		return html;
 	}
-	
+	public static String createParagraph(String text) {
+		String html="<body>\n<p>"+text+"</p>\n</body>";
+		return html;
+	}
 }
