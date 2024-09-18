@@ -2,3 +2,4 @@
 <h3>Participantes</h3>
 <p>Eddy Muto Montesinos</p>
 <p>Eduardo Choque Quispe</p>
+<p>Elizabeth Ccahua Chise</p>
